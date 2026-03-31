@@ -1,4 +1,6 @@
 🚗 Vehicle Price Predictor
+
+
 📌 Project Overview
 The Vehicle Price Predictor is a Machine Learning application designed to estimate the market value of used cars. By leveraging historical data and key automotive features, this project implements a predictive model that helps users understand price trends based on various technical and usage-based factors.
 
@@ -43,7 +45,7 @@ Machine Learning: Scikit-Learn
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/vehicle-price-predictor.git
+git clone https://github.com/Sheesaliakbar/vehicle-price-predictor.git
 Install dependencies:
 
 Bash
